@@ -2,7 +2,7 @@
 	"name": "native-promise-only",
 	"version": "0.7.6-a",
 	"description": "Native Promise Only: A polyfill for native ES6 Promises **only**, nothing else.",
-	"main": "./npo.js",
+	"main": "./lib/npo.js",
 	"scripts": {
 		"test": "promises-aplus-tests test_adapter.js",
 		"build": "./build.js"
